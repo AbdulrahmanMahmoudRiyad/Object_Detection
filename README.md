@@ -18,5 +18,5 @@ This project implements a Streamlit application that uses the YOLOv8 model for o
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/<your-github-username>/object-detection-yolo-streamlit-app.git
+git clone https://github.com/AbdulrahmanMahmoudRiyad/object-detection-yolo-streamlit-app.git
 cd object-detection-yolo-streamlit-app
