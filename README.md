@@ -8,13 +8,6 @@ This project implements a Streamlit application that uses the YOLOv8 model for o
 - **Object Detection**: Utilizes YOLOv8 model to detect objects in the uploaded image.
 - **Results Display**: Displays the names of detected objects and an annotated image with bounding boxes.
 
-## Installation
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package installer)
-
 ### Clone the Repository
 
 ```sh
